@@ -16,15 +16,15 @@
             android:layout_height="wrap_content"
             android:text="Task"
             android:textStyle="bold"
-            android:layout_marginTop="50dp"
-            android:layout_marginLeft="80dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="50dp"
             android:textSize="30dp"></TextView>
 
         <ImageView
             android:id="@+id/imageViewAdd"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            android:layout_marginLeft="100dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="80dp"
             android:layout_marginTop="35dp"
             app:srcCompat="@android:drawable/ic_menu_add" />
 
